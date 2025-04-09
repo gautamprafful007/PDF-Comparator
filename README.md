@@ -1,1 +1,1 @@
-# PDF-Comparator
+# PDF Comparator
