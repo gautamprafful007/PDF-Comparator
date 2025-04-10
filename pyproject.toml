@@ -1,0 +1,16 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2.3",
+    "pdfminer>=20191125",
+    "pdfminer-six>=20250327",
+    "plotly>=6.0.1",
+    "psycopg2-binary>=2.9.10",
+    "pypdf2>=3.0.1",
+    "sqlalchemy>=2.0.40",
+    "streamlit>=1.44.1",
+    "weasyprint>=65.0",
+]
